@@ -1,29 +1,53 @@
-# Number Guessing Game 🎮
+# Java Internship Tasks 🚀
 
 ## About the Project
-This is a simple Java game where the user guesses a random number between 1 and 100.
+
+This repository contains Java programs developed as part of my Java Internship.
 
 ## Technologies Used
 - Java
 - VS Code
 - JDK 21
 
-## Features
-- Generates a random number.
+## Tasks Completed
+
+### Task 1: Number Guessing Game 🎮
+- Generates a random number between 1 and 100.
 - Accepts user guesses.
 - Displays Too High or Too Low.
-- Shows Correct! You Win! when the answer is right.
+- Shows the winning message.
 
-## How to Run
-1. Compile: `javac NumberGuessingGame.java`
-2. Run: `java NumberGuessingGame`
+**Run:**
+```bash
+javac NumberGuessingGame.java
+java NumberGuessingGame
+```
 
-## Output
-Welcome to Number Guessing Game!
+### Task 2: Student Marks Calculator 📚
+- Accepts student name and register number.
+- Gets three subject marks.
+- Calculates total and average.
+- Displays the grade.
 
-Guess a number (1-100)
+**Run:**
+```bash
+javac StudentCalculator.java
+java StudentCalculator
+```
 
-Correct! You Win!
+### Task 3: Currency Converter 💱
+- Converts INR to USD.
+- Converts USD to INR.
+- Accepts the amount from the user.
+- Displays the converted amount.
+
+**Run:**
+```bash
+javac CurrencyConverter.java
+java CurrencyConverter
+```
 
 ## Author
-Suresh
+**Suresh**
+
+Java Internship Projects
